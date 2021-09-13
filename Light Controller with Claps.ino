@@ -2,6 +2,7 @@
 * LIGHT CONTROLLER WITH CLAPS
 * Author: LAUCAMIDIAZ3008
 * Update: 13/9/21
+* CHECK MICROPHONE CODE
 */
 
 /*-----------------------------
