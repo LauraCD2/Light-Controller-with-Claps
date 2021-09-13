@@ -1,7 +1,7 @@
 /*
-* Clapper project
-* Author: Manoj Kunthu
-* Update: 2/2/13
+* LIGHT CONTROLLER WITH CLAPS
+* Author: LAUCAMIDIAZ3008
+* Update: 13/9/21
 */
 
 /*-----------------------------
