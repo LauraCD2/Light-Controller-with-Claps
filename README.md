@@ -7,6 +7,6 @@ Components:
             
             Arduino UNO
             
-            microfone
+            microphone
             
             Led
