@@ -1,6 +1,6 @@
 # Light-Controller-with-Claps
 
-Hey! I'm just working this, give me ideas!!! 
+Hey! I'm just working on this, give me ideas!!! 
 
 Language: c++
 
